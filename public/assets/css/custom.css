@@ -1,0 +1,16 @@
+.loginDash{
+    background-color: pink;
+}
+
+.loginDashboard{
+    padding-top: 150px;
+}
+
+.error {
+    color: red;
+    display: none;
+}
+.invalid {
+    border-color: red;
+}
+
